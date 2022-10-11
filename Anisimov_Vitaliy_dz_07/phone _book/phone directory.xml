@@ -1,0 +1,6 @@
+<xml>
+   <first_name units = "Имя">София</first_name>
+   <last_name units = "Фамилия">Сидорова</last_name>
+   <phone_number units = "№ телефона">89071234568</phone_number>
+   <note units = "Примечание">учитель</note>
+</xml>
