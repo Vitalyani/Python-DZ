@@ -1,0 +1,17 @@
+
+first_name - Елена
+
+last_name - Петрова
+
+phone_number - 89081234567
+
+note - Инженер
+
+first_name - Олеся
+
+last_name - Иванова
+
+phone_number - 89081234568
+
+note - Технолог
+
